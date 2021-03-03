@@ -66,6 +66,12 @@ cnpm install -g @vue/cli
 cnpm install @vue/cli-service -g
 ```
 
+9. 有些 npm 包可能安装失败
+
+```
+cnpm install
+```
+
 ### 修改环境变量以及配置
 
 1. 环境变量写入项目根目录下的 .env 文件：
